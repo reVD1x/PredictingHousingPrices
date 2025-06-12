@@ -1,2 +1,2 @@
 # PredictingHousingPrices
-sklearn。fetch_california_housing
+sklearn.fetch_california_housing
